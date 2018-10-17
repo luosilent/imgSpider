@@ -116,5 +116,5 @@ class getImgUrl
 
 }
 
-$test = new getImgUrl();
-$get = $test -> getSrc("http://www.bee-ji.com");
+// $test = new getImgUrl();
+// $get = $test -> getSrc("http://www.bee-ji.com");
